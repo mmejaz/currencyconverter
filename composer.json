@@ -1,0 +1,19 @@
+{
+    "name": "ejaz/converter",
+    "description": "you can convert your currency",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ejaz",
+            "email": "malikejaz886@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ejaz\\Converter\\": "src/"
+        }
+    }
+}
